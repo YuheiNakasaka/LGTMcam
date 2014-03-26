@@ -1,8 +1,20 @@
 # LGTMcam
 
+[LGTMcam](https://itunes.apple.com/ja/app/lgtmcam/id839859967?l=ja&ls=1&mt=8)
+
 これはLGTMcamという自分が撮った写真にLGTMの文字を合成してSNSへシェアできるカメラです。
 
-はじめてのiOSアプリ開発ということでソースがぐちゃぐちゃですが一応動きますので誰かのお役にたてればと思います。
+はじめてのiOSアプリ開発ということでソースがぐちゃぐちゃですが一応動きますので公開いたします。
+
+誰かのお役にたてれば幸いです。
+
+以下のエントリには大変お世話になりましたので掲載させていただきます。みなさまありがとうございました。
+
+- [DECOPIC風】画像にスタンプを挿入できる機能を実装する](http://himaratsu.hatenablog.com/entry/objc/stamp)
+- [iOSのスクリーンで２本指を使いUIViewの回転、拡大/縮小を同時に行う](http://qiita.com/yuky_az/items/e999003d72b42b0f6865)
+- [iOSのカメラ機能を使う方法まとめ【13日目】](http://dev.classmethod.jp/smartphone/ios-camera-intro/)
+- [[iOS 7] 自作アプリにFlickrとVimeo投稿機能を実装する](http://dev.classmethod.jp/references/ios7_flickr_vimeo2/)
+- [iOS7でナビゲーションバーやステータスバーをカスタマイズする](http://qiita.com/yimajo/items/7051af0919b5286aecfe)
 
 # LICENSE
 Copyright (c) 2014 Yuhei Nakasaka <razoku@creative-box.in>
